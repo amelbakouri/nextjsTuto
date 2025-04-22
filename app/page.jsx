@@ -13,6 +13,6 @@ const HomePage = () => {
       </span>
     </div>
   );
-};
+}; 
 
 export default HomePage;
